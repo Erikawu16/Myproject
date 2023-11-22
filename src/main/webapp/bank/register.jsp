@@ -88,7 +88,7 @@
 	<input type="file" class="form-control" aria-label="file example"
 		required>
 	<div class="invalid-feedback">Example invalid form file feedback</div>
-</div>
+</div> 
 
 
 <div class="w-75 mx-auto">
