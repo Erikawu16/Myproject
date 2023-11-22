@@ -25,7 +25,6 @@
 </style>
 
 
-
 <ul class="nav nav-tabs justify-content-center mt-5 ">
 
 	<li class="nav-item " role="presentation">
